@@ -1,0 +1,17 @@
+[project creation kay liye]
+composer  create-proj laravel/laravel  userproj
+ 
+[usercontrooler bananay kay liye ] 
+php artisan make:controller usercontroller
+
+[database say connection kay liye]
+php artisan migrat
+
+[server chalanay kay liye]
+php artisan serve
+
+php artisan make:migration
+
+php migrate
+
+php arisan make:model post
